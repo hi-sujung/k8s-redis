@@ -1,1 +1,1 @@
-# msa-member-redis
+# msa-redis
