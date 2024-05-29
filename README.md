@@ -1,1 +1,1 @@
-# msa-redis
+# k8s-redis
